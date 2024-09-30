@@ -1,0 +1,12 @@
+# Ignore Python files
+*.pyc
+__pycache__/
+
+# Ignore virtual environment
+venv/
+
+# Ignore Django secret files
+.env
+
+# Ignore system files
+*.log
